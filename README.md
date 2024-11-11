@@ -1,2 +1,2 @@
-# Ink-and-Ideas-A-blogging-Website-
+# blogging-Website-
 A blogging website made with MERN
